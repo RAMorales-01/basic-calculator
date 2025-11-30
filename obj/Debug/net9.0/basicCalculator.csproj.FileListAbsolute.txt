@@ -1,0 +1,14 @@
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.AssemblyInfoInputs.cache
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.AssemblyInfo.cs
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ruben\Desktop\practice\basicCalculator\bin\Debug\net9.0\basicCalculator.exe
+C:\Users\ruben\Desktop\practice\basicCalculator\bin\Debug\net9.0\basicCalculator.deps.json
+C:\Users\ruben\Desktop\practice\basicCalculator\bin\Debug\net9.0\basicCalculator.runtimeconfig.json
+C:\Users\ruben\Desktop\practice\basicCalculator\bin\Debug\net9.0\basicCalculator.dll
+C:\Users\ruben\Desktop\practice\basicCalculator\bin\Debug\net9.0\basicCalculator.pdb
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.dll
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\refint\basicCalculator.dll
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.pdb
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\basicCalculator.genruntimeconfig.cache
+C:\Users\ruben\Desktop\practice\basicCalculator\obj\Debug\net9.0\ref\basicCalculator.dll
